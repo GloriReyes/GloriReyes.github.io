@@ -11,6 +11,7 @@
       <p>
       <h1>Green Goodies for the new age
       </h1>
+      <h3> Welcome to your vegan goodies hub and pep in your step inspo! </h3>
       <img src="https://assets.blog.foodnetwork.ca/imageserve/wp-content/uploads/2018/11/07133057/vegan-brownies-recipe/x.jpg" alt="sheet of plant based brownies"/>
       </p>
     <p> Divine in all senses - 
